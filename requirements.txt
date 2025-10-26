@@ -1,0 +1,11 @@
+bs4
+requests
+pandas 
+numpy 
+matplotlib
+scikit-learn
+tensorflow
+streamlit
+selenium 
+undetected-chromedriver
+lxml
